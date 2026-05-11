@@ -6,7 +6,7 @@ A production-ready microservices application built with Spring Boot, deployed on
 
 ## Architecture Overview
 
-![Architecture Overview](Cloud Architecture.png)
+![Architecture Overview](architecture-diagram.png)
 
 ### Services
 
